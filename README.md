@@ -48,5 +48,5 @@ samples, guidance on mobile development, and a full API reference.
 - [ChatPage](project_pics/chat_page.png)
 
 
-Thanks to @mohamedYoussfi for his great tutorial about how to make this project
+Thanks to @mohamedYoussfi for his great tutorial about how to make this project .
 
