@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Assistant that helped turned StatelessWidget into StatefulWidget
+# Assistant that helped turning StatelessWidget into StatefulWidget
 
 - [assistant_intelligent](project_pics/assisstant_pour_rendre_stless_en_stfull_widget.png)
 
